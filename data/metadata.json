@@ -1,0 +1,673 @@
+{
+  "00faa1032cc0809974a8d2dd7b018497": {
+    "path": "images\\00faa1032cc0809974a8d2dd7b018497.jpg",
+    "attributes": {
+      "color": "pink",
+      "clothing_type": "dress",
+      "environment": "outdoor",
+      "style": "formal",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 0
+  },
+  "0301f50a3cd73f13cd9e1125d8ef38bd": {
+    "path": "images\\0301f50a3cd73f13cd9e1125d8ef38bd.jpg",
+    "attributes": {
+      "color": "green",
+      "clothing_type": "kurta",
+      "environment": "studio",
+      "style": "elegant",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 1
+  },
+  "03940cb6fdf45a4844dacf11367a7ff6": {
+    "path": "images\\03940cb6fdf45a4844dacf11367a7ff6.jpg",
+    "attributes": {
+      "color": "pink",
+      "clothing_type": "dress",
+      "environment": "studio",
+      "style": "formal",
+      "vibe": "professional"
+    },
+    "faiss_row": 2
+  },
+  "06cc4cc3fd423fb82ce78a63c903cc5b": {
+    "path": "images\\06cc4cc3fd423fb82ce78a63c903cc5b.jpg",
+    "attributes": {
+      "color": "white",
+      "clothing_type": "dress",
+      "environment": "studio",
+      "style": "minimalist",
+      "vibe": "minimalist"
+    },
+    "faiss_row": 3
+  },
+  "08b487d437ae6058ca64250be162b656": {
+    "path": "images\\08b487d437ae6058ca64250be162b656.jpg",
+    "attributes": {
+      "color": "red",
+      "clothing_type": "sweater",
+      "environment": "urban",
+      "style": "streetwear",
+      "vibe": "streetwear"
+    },
+    "faiss_row": 4
+  },
+  "138d25e69ff93fda0643ced2fa7feafb": {
+    "path": "images\\138d25e69ff93fda0643ced2fa7feafb.jpg",
+    "attributes": {
+      "color": "black",
+      "clothing_type": "coat",
+      "environment": "urban",
+      "style": "formal",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 5
+  },
+  "15910ed48cbfceeff0e0b808694b732c": {
+    "path": "images\\15910ed48cbfceeff0e0b808694b732c.jpg",
+    "attributes": {
+      "color": "grey",
+      "clothing_type": "dress",
+      "environment": "urban",
+      "style": "streetwear",
+      "vibe": "streetwear"
+    },
+    "faiss_row": 6
+  },
+  "1ba59c93806cd99aa291db7ac4960424": {
+    "path": "images\\1ba59c93806cd99aa291db7ac4960424.jpg",
+    "attributes": {
+      "color": "black",
+      "clothing_type": "skirt",
+      "environment": "indoor",
+      "style": "formal",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 7
+  },
+  "24b7c65d52433d1fd9f3530d18ea9779": {
+    "path": "images\\24b7c65d52433d1fd9f3530d18ea9779.jpg",
+    "attributes": {
+      "color": "blue",
+      "clothing_type": "shorts",
+      "environment": "street",
+      "style": "streetwear",
+      "vibe": "sporty"
+    },
+    "faiss_row": 8
+  },
+  "2818590a72f2e4382b89743c4e1b5c9b": {
+    "path": "images\\2818590a72f2e4382b89743c4e1b5c9b.jpg",
+    "attributes": {
+      "color": "beige",
+      "clothing_type": "skirt",
+      "environment": "urban",
+      "style": "casual",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 9
+  },
+  "2892b3605dc467bdc1b421a6e69400eb": {
+    "path": "images\\2892b3605dc467bdc1b421a6e69400eb.jpg",
+    "attributes": {
+      "color": "black",
+      "clothing_type": "kurta",
+      "environment": "urban",
+      "style": "streetwear",
+      "vibe": "streetwear"
+    },
+    "faiss_row": 10
+  },
+  "28a81048c096bc60a0a2b30c17a2d740": {
+    "path": "images\\28a81048c096bc60a0a2b30c17a2d740.jpg",
+    "attributes": {
+      "color": "orange",
+      "clothing_type": "dress",
+      "environment": "street",
+      "style": "formal",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 11
+  },
+  "28f3172e9e96bb17c1f9ec3697b175bc": {
+    "path": "images\\28f3172e9e96bb17c1f9ec3697b175bc.jpg",
+    "attributes": {
+      "color": "black",
+      "clothing_type": "dress",
+      "environment": "urban",
+      "style": "minimalist",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 12
+  },
+  "2adffb322a52bb5e4111ff76b9883f36": {
+    "path": "images\\2adffb322a52bb5e4111ff76b9883f36.jpg",
+    "attributes": {
+      "color": "black",
+      "clothing_type": "dress",
+      "environment": "indoor",
+      "style": "formal",
+      "vibe": "luxury"
+    },
+    "faiss_row": 13
+  },
+  "325d58068eeb1b4a51a27b5837fafdc3": {
+    "path": "images\\325d58068eeb1b4a51a27b5837fafdc3.jpg",
+    "attributes": {
+      "color": "pink",
+      "clothing_type": "gown",
+      "environment": "studio",
+      "style": "elegant",
+      "vibe": "luxury"
+    },
+    "faiss_row": 14
+  },
+  "3268cfbed88575eef896c7df7ad8ee05": {
+    "path": "images\\3268cfbed88575eef896c7df7ad8ee05.jpg",
+    "attributes": {
+      "color": "black",
+      "clothing_type": "trousers",
+      "environment": "studio",
+      "style": "elegant",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 15
+  },
+  "32c3e103ad265b786e98b45f5525e456": {
+    "path": "images\\32c3e103ad265b786e98b45f5525e456.jpg",
+    "attributes": {
+      "color": "multicolor",
+      "clothing_type": "dress",
+      "environment": "street",
+      "style": "traditional",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 16
+  },
+  "33846044d27032d3988b9b4b7e22e252": {
+    "path": "images\\33846044d27032d3988b9b4b7e22e252.jpg",
+    "attributes": {
+      "color": "white",
+      "clothing_type": "dress",
+      "environment": "indoor",
+      "style": "formal",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 17
+  },
+  "3dda4e48dc4aaf7cb08016c5ae77a8fb": {
+    "path": "images\\3dda4e48dc4aaf7cb08016c5ae77a8fb.jpg",
+    "attributes": {
+      "color": "navy",
+      "clothing_type": "shorts",
+      "environment": "studio",
+      "style": "athletic",
+      "vibe": "sporty"
+    },
+    "faiss_row": 18
+  },
+  "44fb46c8cd5d236eb6f7555f870e11a9": {
+    "path": "images\\44fb46c8cd5d236eb6f7555f870e11a9.jpg",
+    "attributes": {
+      "color": "multicolor",
+      "clothing_type": "shorts",
+      "environment": "outdoor",
+      "style": "athletic",
+      "vibe": "sporty"
+    },
+    "faiss_row": 19
+  },
+  "455cc32f0023ea3ef1a9f5e2fb31dd01": {
+    "path": "images\\455cc32f0023ea3ef1a9f5e2fb31dd01.jpg",
+    "attributes": {
+      "color": "yellow",
+      "clothing_type": "gown",
+      "environment": "indoor",
+      "style": "formal",
+      "vibe": "luxury"
+    },
+    "faiss_row": 20
+  },
+  "48475ad8c99118d4e789243072fc72d9": {
+    "path": "images\\48475ad8c99118d4e789243072fc72d9.jpg",
+    "attributes": {
+      "color": "black",
+      "clothing_type": "skirt",
+      "environment": "street",
+      "style": "formal",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 21
+  },
+  "4c528816dbb9d5ba947d10b145fcb5f1": {
+    "path": "images\\4c528816dbb9d5ba947d10b145fcb5f1.jpg",
+    "attributes": {
+      "color": "grey",
+      "clothing_type": "dress",
+      "environment": "indoor",
+      "style": "traditional",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 22
+  },
+  "51157cc2ca7c419627f1f4a6d3532d80": {
+    "path": "images\\51157cc2ca7c419627f1f4a6d3532d80.jpg",
+    "attributes": {
+      "color": "blue",
+      "clothing_type": "shorts",
+      "environment": "studio",
+      "style": "athletic",
+      "vibe": "sporty"
+    },
+    "faiss_row": 23
+  },
+  "54cc806a05ebd88048485d929f91fe7c": {
+    "path": "images\\54cc806a05ebd88048485d929f91fe7c.jpg",
+    "attributes": {
+      "color": "white",
+      "clothing_type": "trousers",
+      "environment": "outdoor",
+      "style": "casual",
+      "vibe": "weekend casual"
+    },
+    "faiss_row": 24
+  },
+  "55cd7f4f81847745f62b4bc59df3df1f": {
+    "path": "images\\55cd7f4f81847745f62b4bc59df3df1f.jpg",
+    "attributes": {
+      "color": "blue",
+      "clothing_type": "dress",
+      "environment": "studio",
+      "style": "traditional",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 25
+  },
+  "58edeafe6cdaa1aca812a2a04f4a5c68": {
+    "path": "images\\58edeafe6cdaa1aca812a2a04f4a5c68.jpg",
+    "attributes": {
+      "color": "black",
+      "clothing_type": "jeans",
+      "environment": "urban",
+      "style": "casual",
+      "vibe": "weekend casual"
+    },
+    "faiss_row": 26
+  },
+  "6078876b1eef9845bf6cd8ed6a653963": {
+    "path": "images\\6078876b1eef9845bf6cd8ed6a653963.jpg",
+    "attributes": {
+      "color": "pink",
+      "clothing_type": "skirt",
+      "environment": "street",
+      "style": "traditional",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 27
+  },
+  "6563cf5e04c1537eac0611617040fb37": {
+    "path": "images\\6563cf5e04c1537eac0611617040fb37.jpg",
+    "attributes": {
+      "color": "brown",
+      "clothing_type": "dress",
+      "environment": "studio",
+      "style": "minimalist",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 28
+  },
+  "6d095eb37a313bb784ad00ab53a0df05": {
+    "path": "images\\6d095eb37a313bb784ad00ab53a0df05.jpg",
+    "attributes": {
+      "color": "multicolor",
+      "clothing_type": "dress",
+      "environment": "indoor",
+      "style": "formal",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 29
+  },
+  "6dbf9e5879c1c4256ecb16bf9cc40c0e": {
+    "path": "images\\6dbf9e5879c1c4256ecb16bf9cc40c0e.jpg",
+    "attributes": {
+      "color": "brown",
+      "clothing_type": "coat",
+      "environment": "street",
+      "style": "formal",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 30
+  },
+  "708a07ef70c7b1c95bc839b45ed774aa": {
+    "path": "images\\708a07ef70c7b1c95bc839b45ed774aa.jpg",
+    "attributes": {
+      "color": "pink",
+      "clothing_type": "skirt",
+      "environment": "outdoor",
+      "style": "athletic",
+      "vibe": "sporty"
+    },
+    "faiss_row": 31
+  },
+  "7bc92c9d949f8cf648b591de54bc4588": {
+    "path": "images\\7bc92c9d949f8cf648b591de54bc4588.jpg",
+    "attributes": {
+      "color": "multicolor",
+      "clothing_type": "dress",
+      "environment": "street",
+      "style": "bohemian",
+      "vibe": "luxury"
+    },
+    "faiss_row": 32
+  },
+  "7d9a766f0de2a8aab3004ac1bee9768f": {
+    "path": "images\\7d9a766f0de2a8aab3004ac1bee9768f.jpg",
+    "attributes": {
+      "color": "black",
+      "clothing_type": "dress",
+      "environment": "indoor",
+      "style": "formal",
+      "vibe": "luxury"
+    },
+    "faiss_row": 33
+  },
+  "8087c566a192cae92aecfab3ac7c4995": {
+    "path": "images\\8087c566a192cae92aecfab3ac7c4995.jpg",
+    "attributes": {
+      "color": "black",
+      "clothing_type": "dress",
+      "environment": "indoor",
+      "style": "formal",
+      "vibe": "luxury"
+    },
+    "faiss_row": 34
+  },
+  "82e4e0f98d3191bf6cf30aacf60abe00": {
+    "path": "images\\82e4e0f98d3191bf6cf30aacf60abe00.jpg",
+    "attributes": {
+      "color": "black",
+      "clothing_type": "gown",
+      "environment": "studio",
+      "style": "formal",
+      "vibe": "luxury"
+    },
+    "faiss_row": 35
+  },
+  "888ce4d1599f17c5b16537b13bad7fc3": {
+    "path": "images\\888ce4d1599f17c5b16537b13bad7fc3.jpg",
+    "attributes": {
+      "color": "blue",
+      "clothing_type": "jeans",
+      "environment": "street",
+      "style": "minimalist",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 36
+  },
+  "8deb3e7283d7407f68d8bb58ee68840a": {
+    "path": "images\\8deb3e7283d7407f68d8bb58ee68840a.jpg",
+    "attributes": {
+      "color": "pink",
+      "clothing_type": "shorts",
+      "environment": "urban",
+      "style": "streetwear",
+      "vibe": "streetwear"
+    },
+    "faiss_row": 37
+  },
+  "94351b1b66b1e37756eef9206883dd83": {
+    "path": "images\\94351b1b66b1e37756eef9206883dd83.jpg",
+    "attributes": {
+      "color": "black",
+      "clothing_type": "shorts",
+      "environment": "urban",
+      "style": "casual",
+      "vibe": "sporty"
+    },
+    "faiss_row": 38
+  },
+  "98ee9e7b954566e0b34ffd8c9b30d0ba": {
+    "path": "images\\98ee9e7b954566e0b34ffd8c9b30d0ba.jpg",
+    "attributes": {
+      "color": "black",
+      "clothing_type": "jeans",
+      "environment": "studio",
+      "style": "formal",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 39
+  },
+  "a1179351a2caafc4cd15b6666121c813": {
+    "path": "images\\a1179351a2caafc4cd15b6666121c813.jpg",
+    "attributes": {
+      "color": "brown",
+      "clothing_type": "coat",
+      "environment": "street",
+      "style": "casual",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 40
+  },
+  "a4367371218c3a1ac61032d302623fac": {
+    "path": "images\\a4367371218c3a1ac61032d302623fac.jpg",
+    "attributes": {
+      "color": "blue",
+      "clothing_type": "gown",
+      "environment": "indoor",
+      "style": "formal",
+      "vibe": "luxury"
+    },
+    "faiss_row": 41
+  },
+  "a53e1c400993280b2e008aebeaec46cf": {
+    "path": "images\\a53e1c400993280b2e008aebeaec46cf.jpg",
+    "attributes": {
+      "color": "beige",
+      "clothing_type": "coat",
+      "environment": "street",
+      "style": "formal",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 42
+  },
+  "a6e7cb3bb162e57f76ccfd61bb38ed3b": {
+    "path": "images\\a6e7cb3bb162e57f76ccfd61bb38ed3b.jpg",
+    "attributes": {
+      "color": "red",
+      "clothing_type": "shorts",
+      "environment": "street",
+      "style": "minimalist",
+      "vibe": "sporty"
+    },
+    "faiss_row": 43
+  },
+  "af3ac21f5705cd747558b82261adebf6": {
+    "path": "images\\af3ac21f5705cd747558b82261adebf6.jpg",
+    "attributes": {
+      "color": "beige",
+      "clothing_type": "trousers",
+      "environment": "outdoor",
+      "style": "casual",
+      "vibe": "weekend casual"
+    },
+    "faiss_row": 44
+  },
+  "b246457b56c522682a2400286ca834ec": {
+    "path": "images\\b246457b56c522682a2400286ca834ec.jpg",
+    "attributes": {
+      "color": "beige",
+      "clothing_type": "coat",
+      "environment": "studio",
+      "style": "minimalist",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 45
+  },
+  "b98533fdd4529a58a37839b404c7ab3e": {
+    "path": "images\\b98533fdd4529a58a37839b404c7ab3e.jpg",
+    "attributes": {
+      "color": "grey",
+      "clothing_type": "skirt",
+      "environment": "outdoor",
+      "style": "casual",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 46
+  },
+  "bfb8f667129a73bbb2e54551816ab37b": {
+    "path": "images\\bfb8f667129a73bbb2e54551816ab37b.jpg",
+    "attributes": {
+      "color": "black",
+      "clothing_type": "jeans",
+      "environment": "street",
+      "style": "casual",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 47
+  },
+  "c3d0fe19d35b7e0181b1d2f3237a05af": {
+    "path": "images\\c3d0fe19d35b7e0181b1d2f3237a05af.jpg",
+    "attributes": {
+      "color": "pink",
+      "clothing_type": "jacket",
+      "environment": "street",
+      "style": "casual",
+      "vibe": "weekend casual"
+    },
+    "faiss_row": 48
+  },
+  "cabe2bb46f93bac1a168f8f445b09ec3": {
+    "path": "images\\cabe2bb46f93bac1a168f8f445b09ec3.jpg",
+    "attributes": {
+      "color": "green",
+      "clothing_type": "dress",
+      "environment": "indoor",
+      "style": "formal",
+      "vibe": "luxury"
+    },
+    "faiss_row": 49
+  },
+  "ce2f72edcbfdc22d9b95b5990d71609c": {
+    "path": "images\\ce2f72edcbfdc22d9b95b5990d71609c.jpg",
+    "attributes": {
+      "color": "white",
+      "clothing_type": "gown",
+      "environment": "indoor",
+      "style": "formal",
+      "vibe": "luxury"
+    },
+    "faiss_row": 50
+  },
+  "d04d3562eaabdfd4b6ce70b26c079c8b": {
+    "path": "images\\d04d3562eaabdfd4b6ce70b26c079c8b.jpg",
+    "attributes": {
+      "color": "multicolor",
+      "clothing_type": "dress",
+      "environment": "studio",
+      "style": "traditional",
+      "vibe": "streetwear"
+    },
+    "faiss_row": 51
+  },
+  "d0a5016b11056c25872b94d28bc0322c": {
+    "path": "images\\d0a5016b11056c25872b94d28bc0322c.jpg",
+    "attributes": {
+      "color": "beige",
+      "clothing_type": "coat",
+      "environment": "street",
+      "style": "bohemian",
+      "vibe": "streetwear"
+    },
+    "faiss_row": 52
+  },
+  "d177548c293dd9d3a07d7b2f3a61c5c1": {
+    "path": "images\\d177548c293dd9d3a07d7b2f3a61c5c1.jpg",
+    "attributes": {
+      "color": "black",
+      "clothing_type": "skirt",
+      "environment": "indoor",
+      "style": "formal",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 53
+  },
+  "d992775287c798c35aa862953d8e064d": {
+    "path": "images\\d992775287c798c35aa862953d8e064d.jpg",
+    "attributes": {
+      "color": "white",
+      "clothing_type": "gown",
+      "environment": "indoor",
+      "style": "formal",
+      "vibe": "luxury"
+    },
+    "faiss_row": 54
+  },
+  "dfe1614f4dc3b8d717b7a81244166c0d": {
+    "path": "images\\dfe1614f4dc3b8d717b7a81244166c0d.jpg",
+    "attributes": {
+      "color": "white",
+      "clothing_type": "jacket",
+      "environment": "studio",
+      "style": "streetwear",
+      "vibe": "streetwear"
+    },
+    "faiss_row": 55
+  },
+  "f4c8049f436b7edcb26c01d3219e14c2": {
+    "path": "images\\f4c8049f436b7edcb26c01d3219e14c2.jpg",
+    "attributes": {
+      "color": "pink",
+      "clothing_type": "shorts",
+      "environment": "gym",
+      "style": "athletic",
+      "vibe": "sporty"
+    },
+    "faiss_row": 56
+  },
+  "f4d657db6102c49c49b84840ab166ac0": {
+    "path": "images\\f4d657db6102c49c49b84840ab166ac0.jpg",
+    "attributes": {
+      "color": "blue",
+      "clothing_type": "dress",
+      "environment": "studio",
+      "style": "formal",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 57
+  },
+  "fd21a92f035f7c47841b0db1bebd4c3b": {
+    "path": "images\\fd21a92f035f7c47841b0db1bebd4c3b.jpg",
+    "attributes": {
+      "color": "brown",
+      "clothing_type": "coat",
+      "environment": "studio",
+      "style": "formal",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 58
+  },
+  "ff96236baf045f315c1587155c87b0dd": {
+    "path": "images\\ff96236baf045f315c1587155c87b0dd.jpg",
+    "attributes": {
+      "color": "black",
+      "clothing_type": "jacket",
+      "environment": "studio",
+      "style": "casual",
+      "vibe": "smart casual"
+    },
+    "faiss_row": 59
+  },
+  "7936b6689b924a1faaa6fdb71a233e36": {
+    "path": "images\\7936b6689b924a1faaa6fdb71a233e36.jpg",
+    "attributes": {
+      "color": "blue",
+      "clothing_type": "gown",
+      "environment": "street",
+      "style": "formal",
+      "vibe": "luxury"
+    },
+    "faiss_row": 60
+  }
+}
